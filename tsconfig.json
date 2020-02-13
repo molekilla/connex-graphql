@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": { "*": ["types/*"] },
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "outDir": "lib",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "preserveConstEnums": true,
+    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "target": "es2017"
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "node_modules",
+    "examples",
+    "tests",
+    "dist"
+  ],
+  "typedocOptions": {
+    "mode": "file",
+    "out": "docs",
+    "theme": "markdown"
+  }
+}
