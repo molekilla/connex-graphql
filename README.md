@@ -1,4 +1,4 @@
-# thor-connexql
+# connex-graphql
 thor connex graphql
 
 ###  Install
