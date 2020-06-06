@@ -14,7 +14,7 @@
     "@vechain/connex-framework": "^1.0.1",
     "@vechain/connex.driver": "^1.0.0",
     "@vechain/connex.driver-nodejs": "^1.0.0",
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.14.2",
     "apollo-server-fastify": "^2.8.1",
     "dotenv": "^8.0.0",
     "ethers": "^4.0.33",
